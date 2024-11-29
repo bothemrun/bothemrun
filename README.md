@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bothemrun&theme=neon-dark)](https://git.io/streak-stats)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/bothemrun?ext=contest)
